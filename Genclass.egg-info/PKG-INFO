@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: Genclass
+Version: 0.0.7
+Summary: Generate classes there itself. Just pass class name and fields
+Home-page: https://github.com/mohan78/Genclass
+Author: Mohan Chand Peddapuli
+Author-email: mohanroger63@gmail.com
+License: UNKNOWN
+Description: Genclass
+        A python module for generating create classes. Just give the class name and its fields to generate the block of class code right in that file.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

@@ -1,0 +1,8 @@
+README.md
+setup.py
+Genclass/__init__.py
+Genclass/genclass.py
+Genclass.egg-info/PKG-INFO
+Genclass.egg-info/SOURCES.txt
+Genclass.egg-info/dependency_links.txt
+Genclass.egg-info/top_level.txt
